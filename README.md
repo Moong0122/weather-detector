@@ -1,4 +1,4 @@
-# weather-detector
+# weather-detector ☔️
 make weather-detector-app using React Native
 
 ## What is React Native? ⚛️
